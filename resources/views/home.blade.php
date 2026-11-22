@@ -11,5 +11,6 @@
 </head>
 <body class="min-h-screen bg-paper font-sans text-ink antialiased">
     <livewire:recipe-box />
+    <x-toaster />
 </body>
 </html>
